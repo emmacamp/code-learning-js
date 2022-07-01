@@ -1,0 +1,18 @@
+.container{
+    width: 100%;
+    height: auto;
+    display: grid;
+    
+
+}
+
+.container .caja{
+    width: 30px;
+    height: 30px;
+    justify-content: space-evenly;
+    
+}
+
+.array1{
+    background-color: blue;
+}
